@@ -2,22 +2,27 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/homeFragment"
+        android:icon="@drawable/selector_home"
         android:title="@string/nav_home" />
 
     <item
         android:id="@+id/shortFragment"
+        android:icon="@drawable/selector_short"
         android:title="@string/nav_short" />
 
     <item
-        android:id="@+id/televisionFragment"
-        android:title="@string/nav_television" />
+        android:id="@+id/tvFragment"
+        android:icon="@drawable/selector_tv"
+        android:title="@string/nav_tv" />
 
     <item
         android:id="@+id/hboFragment"
+        android:icon="@drawable/selector_hbo"
         android:title="@string/nav_hbo" />
 
     <item
         android:id="@+id/profileFragment"
+        android:icon="@drawable/selector_profile"
         android:title="@string/nav_profile" />
 
 </menu>
