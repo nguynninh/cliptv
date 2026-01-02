@@ -4,6 +4,6 @@
     <string name="nav_home">首页</string>
     <string name="nav_short">短视频</string>
     <string name="nav_hbo">HBO</string>
-    <string name="nav_television">电视</string>
+    <string name="nav_tv">电视</string>
     <string name="nav_profile">我的</string>
 </resources>

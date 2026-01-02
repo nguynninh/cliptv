@@ -4,6 +4,6 @@
     <string name="nav_home">Home</string>
     <string name="nav_short">Short</string>
     <string name="nav_hbo">HBO</string>
-    <string name="nav_television">TV</string>
+    <string name="nav_tv">TV</string>
     <string name="nav_profile">Me</string>
 </resources>
