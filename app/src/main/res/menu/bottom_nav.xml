@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="@string/nav_home" />
+
+    <item
+        android:id="@+id/shortFragment"
+        android:title="@string/nav_short" />
+
+    <item
+        android:id="@+id/televisionFragment"
+        android:title="@string/nav_television" />
+
+    <item
+        android:id="@+id/hboFragment"
+        android:title="@string/nav_hbo" />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:title="@string/nav_profile" />
+
+</menu>
