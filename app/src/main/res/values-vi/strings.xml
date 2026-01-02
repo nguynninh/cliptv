@@ -2,7 +2,7 @@
     <string name="app_name">ClipTV</string>
 
     <string name="nav_home">Trang chủ</string>
-    <string name="nav_short">Khoảnh khắc</string>
+    <string name="nav_short">Short</string>
     <string name="nav_hbo">HBO</string>
     <string name="nav_tv">TV</string>
     <string name="nav_profile">Tôi</string>
